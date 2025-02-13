@@ -215,7 +215,7 @@ const CONFIG = {
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
       STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
-      STARTER_TEAM_ITEM_DESCRIPTION: '外贸推广运营
+      STARTER_TEAM_ITEM_DESCRIPTION: '外贸推广运营'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
